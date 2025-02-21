@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hi%2C+I'm+Sky!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ## Info
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://skyline-ax.github.io/skY/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ТВОЯ_ССЫЛКА)
+[![Website](https://img.shields.io/badge/-Website-FF8800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skyline-ax.github.io/skY/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ЮЗЕРНЕЙМ)
 
 
