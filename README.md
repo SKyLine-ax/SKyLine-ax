@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Main Frameworks & Libraries:
-![discord.py](https://img.shields.io/badge/-discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![discord.py](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&amp;logo=discord-py&amp;logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases:
