@@ -8,12 +8,6 @@
 
 
 
-## Stats
-![Sky GitHub stats](https://github-readme-stats.vercel.app/api?username=SKyLine-ax&show_icons=true&theme=gruvbox)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKyLine-ax&layout=compact&theme=gruvbox)
-
 ## Tech Stack
 
 ### Languages:
