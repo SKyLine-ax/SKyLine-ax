@@ -19,6 +19,7 @@
 ### Main Frameworks & Libraries:
 ![discord.py](https://custom-icon-badges.demolab.com/badge/Discord.py-323330?style=for-the-badge&amp;logo=discord-py&amp;logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
