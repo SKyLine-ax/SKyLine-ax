@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/razzvet13)
 
 
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=SKyLine-ax)
 
 ## Tech Stack
 
