@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hi%2C+I'm+Sky!;)](https://git.io/typing-svg)
 
-## Info
+## Infoxxxxxds
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/938136346147582045)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/razzvet13)
 
