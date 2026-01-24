@@ -6,7 +6,7 @@
 
 
 
-## Tech StackссссСсЫсыссыыыс
+## Tech Stack
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
