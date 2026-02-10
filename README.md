@@ -27,6 +27,7 @@
 ### Operating systems:
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-bfe0f5?logo=windows&amp;logoColor=white&amp;style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3A8533?logo=android&logoColor=white&style=for-the-badge)
+![Kali] (https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### No category:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
