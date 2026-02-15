@@ -3,7 +3,9 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/938136346147582045)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/razzvet13)
 
+## Stats
 
+![Cs](https://github-readme-activity-graph.vercel.app/graph?username=SKyLine-ax&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20(last%2014%20days))
 
 ## Tech Stack
 
