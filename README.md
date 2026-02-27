@@ -7,8 +7,7 @@
 ![Cs](https://github-readme-activity-graph.vercel.app/graph?username=SKyLine-ax&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20(last%2014%20days))
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SKyLine-ax%20&theme=blue-navy&border_radius=18" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=SKyLine-ax%20&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
