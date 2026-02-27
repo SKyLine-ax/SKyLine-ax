@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SKyLine-ax%20&theme=iceberg&border_radius=18" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SKyLine-ax%20&theme=blue-navy&border_radius=18" alt="GitHub Streak" />
   </a>
 </p>
 
