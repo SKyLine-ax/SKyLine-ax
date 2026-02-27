@@ -5,7 +5,12 @@
 ## Stats
 
 ![Cs](https://github-readme-activity-graph.vercel.app/graph?username=SKyLine-ax&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20(last%2014%20days))
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SKyLine-ax%20&theme=dark-minimalist&border_radius=18)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SKyLine-ax%20&theme=iceberg&border_radius=18" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## Tech Stack
 
